@@ -4,12 +4,13 @@ import { getFirestore } from 'firebase/firestore';
 import { getStorage } from 'firebase/storage';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyB-9CuvX5IuU4hpgpcn958SYsgxqs_SSaY",
-  authDomain: "signs-29113.firebaseapp.com",
-  projectId: "signs-29113",
-  storageBucket: "signs-29113.firebasestorage.app",
-  messagingSenderId: "938068004338",
-  appId: "1:938068004338:web:e3c6a5aeaddf67c2a0ef6b"
+  apiKey: "AIzaSyBRFQXcPuLOYw0gBEhLnR4Ops2hAu57yMk",
+  authDomain: "signc-286a4.firebaseapp.com",
+  projectId: "signc-286a4",
+  storageBucket: "signc-286a4.firebasestorage.app",
+  messagingSenderId: "152927632607",
+  appId: "1:152927632607:web:ce3085a141794c818ffd6a",
+  measurementId: "G-1N991ZK4YF"
 };
 
 // Initialize Firebase only if no app exists
